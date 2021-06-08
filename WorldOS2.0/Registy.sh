@@ -1,0 +1,1 @@
+vim ./WorldOS/ROOT/Registy.txt
