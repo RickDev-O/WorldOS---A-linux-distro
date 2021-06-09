@@ -1,3 +1,0 @@
-echo Wait...
-bash ./WorldOS/SYSTEM86/WorldOSxS/SYSBOOT.sh
-
